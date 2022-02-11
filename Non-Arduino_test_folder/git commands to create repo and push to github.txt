@@ -1,0 +1,32 @@
+git init
+git status
+git add .
+git status
+git commit -m 'Initial commit'
+git status
+git log
+git origin
+git remote
+git status
+git branch -M main
+git status
+git remote add origin https://github.com/dwaskevich/hello_world.git
+git remote
+git push -u origin main
+
+file changes
+
+git status
+git add .
+git status
+git commit -m 'Commit - changed FTH multiplier in checkSensor. to 4'
+git push -u origin main
+
+
+git clone https://github.com/dwaskevich/hello_world.git
+
+git pull origin
+
+
+
+
