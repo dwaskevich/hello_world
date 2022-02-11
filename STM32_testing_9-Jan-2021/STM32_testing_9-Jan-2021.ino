@@ -19,6 +19,9 @@
  *              - Added .96" SSD1306 OLED display
  *                - Note - had to downgrade Adafruit_GFX library to 1.7.2
  *                - Note - need pullups on I2C lines
+ *              
+ * Update 10-Feb-2022:
+ *              - modified on ISC in Notepad++
  */
 
 #include <Wire.h>
